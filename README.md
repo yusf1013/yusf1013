@@ -5,7 +5,7 @@ DevOps Engineer
 ---------------
 
 * 🌍  I'm based in Bangladesh
-<!-- * 🖥️  See my recent works [below](http://dd) -->
+* 🖥️  See my recent works [below](#my-recent-works)
 * ✉️  You can contact me at [bsse1013@iit.du.ac.bd](mailto:bsse1013@iit.du.ac.bd)
 
 
@@ -63,6 +63,15 @@ DevOps Engineer
     <img   src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
+## My recent works
+### As a Trainee DevOps Engineer at BrainStation23
+During my internship from Jan 2022 to June 2022, I learnt a lot about full stack app development, the software development lifecycle, and the DevOps activities surrounding it through practical work. These works and projects are listed below - 
+ - [Full-stack app development](https://github.com/yusf1013/MERN_Ecommerce#usage)
+ - [Designing and implementing cloud solution, deployment, Kubernetes, and CI/CD](https://github.com/yusf1013/MERN_Ecommerce#cloud-architecture)
+ - [Price modelling for the implemented solution in AWS](https://docs.google.com/document/d/12JuzUrWThvtYPzwXyo2mTy_iNb4-VJOnOa_23v6M-VU/edit?usp=sharing)
+ - [Training on designing and implementing cloud solutions with AWS](https://docs.google.com/document/d/1bKSj9NbfZu54pkbGxEsYYfgtXxgz1oWIPg72oVH88Ac/edit?usp=sharing)
+ - [Monitoring](https://docs.google.com/document/d/1158exEMX-6yUhBU3LU0wK1wU60Qo4ypfUEoi8-ro3Bs/edit?usp=sharing)
+ - [Summary of overall learnings](https://docs.google.com/document/d/1HPWUZOmsOHen4D1pQJLMxZTneO9fEsFNuPWMBlTwI4o/edit?usp=sharing)
 
 <!-- <div style="display:inline-block">
 </div>
@@ -83,7 +92,7 @@ DevOps Engineer
 
 ## Socials
 
-<p > <a href="https://www.facebook.com/D.y.ahmed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/yusf1013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yusf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCYl0VFXx4CAN1dWwgsF-N_Q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p > <a href="https://www.facebook.com/D.y.ahmed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/yusf1013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yusf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCYl0VFXx4CAN1dWwgsF-N_Q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 
 ## Badges
