@@ -73,6 +73,20 @@ During my internship from Jan 2022 to June 2022, I learnt a lot about full stack
  - [Monitoring](https://docs.google.com/document/d/1158exEMX-6yUhBU3LU0wK1wU60Qo4ypfUEoi8-ro3Bs/edit?usp=sharing)
  - [Summary of overall learnings](https://docs.google.com/document/d/1HPWUZOmsOHen4D1pQJLMxZTneO9fEsFNuPWMBlTwI4o/edit?usp=sharing)
 
+### At the DevOps Hackathon, BUEST CSE Fest, 2022
+In August 2022, My team and I placed First runner-up in this inter-university DevOps Hackathon hosted at Bangladesh University of Engineering and Technology. There, we were tasked with creating, deploying, and managing a University Result Management System (URMS) following DevOps best practices. 
+
+In just a matter of 24 hours, my 2 teammates and I:
+1. Performed requirement analysis and prepared the SRS (Software requirement specification) documentation [(available here)](https://dancing-tartufo-471062.netlify.app/docs/chapter2/planning/).
+2. Created a full stack application with the MEAN stack [(details)](https://dancing-tartufo-471062.netlify.app/docs/chapter2/code/).
+3. Provisioned the infrastructure for Azure Kubernetes using Terraform (IaaC) [(details)](https://dancing-tartufo-471062.netlify.app/docs/chapter1/syllabus/).
+4. Containerized the application and deployed it to Azure Kubernetes.
+5. Created three pipelines (with GitHub actions) for automation - one for the backend, one for the frontend, and one for the documentation.
+6. Setup Prometheus and Grafana, created a dashboard to monitor the cluster.
+7. Setup automated alerts on 9 metrics that are to be pushed to slack.
+
+Besides, a summary of our work is available [here](https://docs.google.com/presentation/d/1ApzRBz6izv7LYtI4HWTyjAoF8nYfwYzT/edit?usp=sharing&ouid=111250075235260756534&rtpof=true&sd=true).
+
 <!-- <div style="display:inline-block">
 </div>
 
